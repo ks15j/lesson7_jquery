@@ -4,20 +4,24 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kristiana Stevens
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we add a function to the recipe application which alows the 
+"ingredients", and "instructions" headers to be clicked, and text is shown. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ks15j.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Jquery is a more "lightweight" JavaScript library. Jquery makes it more convenient
+to use javascrit on a website. Jquery simplifies things like AJAX and DOM. Many big companies 
+use jquery in their websites. 
+2. Jquery Events: Jquery events are user actions that a web page can respond to. Additioanlly, 
+an event can refer to whenever somethinghappens on a webpage. Some examples are: clicking on a button, 
+hovering a mouse over an element, clicking on an element. 
+3. Jquery Syntax: The syntaz of jquery is made for selecting HTML elements, and performing an action. 
+The syntax for basic jquery is: $(selector).action(). 
